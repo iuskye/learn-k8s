@@ -1,4 +1,4 @@
-<h1 align="center">学习 Kubernete</h1>
+<h1 align="center">学习 Kubernetes</h1>
 
 ## 基础知识
 
